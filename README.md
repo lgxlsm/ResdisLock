@@ -1,1 +1,1 @@
-# ResdisLock 利用Resdis实现分布式锁
+# 利用Resdis实现分布式锁
